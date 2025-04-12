@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\bin\Debug\CRUD_FORM1.exe.config
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\bin\Debug\CRUD_FORM1.exe
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\bin\Debug\CRUD_FORM1.pdb
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\obj\Debug\CRUD_FORM1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\obj\Debug\CRUD_FORM1.Form1.resources
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\obj\Debug\CRUD_FORM1.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\obj\Debug\CRUD_FORM1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\obj\Debug\CRUD_FORM1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\obj\Debug\CRUD_FORM1.exe
+C:\Users\USUARIO\Downloads\UMG_DB-CRUD\CRUD_FORM1\CRUD_FORM1\obj\Debug\CRUD_FORM1.pdb
